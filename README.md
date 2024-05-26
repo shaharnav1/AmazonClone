@@ -8,3 +8,5 @@ This is the new commit.
 # Learning
 
 I am trying to ccreat a new branch and merge it again
+
+This is the second branch
